@@ -37,5 +37,5 @@ We worked on this as part of an **Active Learning Workshop** where we dove into 
 
 1. Clone this repo to your computer:
    ```bash
-   git clone https://github.com/yourusername/IR-invertedmatrix-workshop.git
+   git clone https://github.com/KapilBhardwaj2702/IR-invertedmatrix-workshop.git
    cd IR-invertedmatrix-workshop
